@@ -1,3 +1,9 @@
+https://democoffeeshopwebsite.web.app
+
+Demo Coffee Shop Built for my portfolio
+
+(see more below)
+
   =>  Template Name    : KOPPEE - Coffee Shop HTML Template
 
   =>  Template Link    : https://htmlcodex.com/coffee-shop-html-template
